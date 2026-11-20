@@ -50,7 +50,7 @@
 - [Скачать стрим с Kick](https://fetchr.fun/skachat-strim-s-kick/), [клипы Kick](https://fetchr.fun/skachat-klip-s-kick/) и [рендер чата Kick](https://fetchr.fun/render-chata-kick/)
 - [Скачать видео с VK](https://fetchr.fun/skachat-video-s-vk/), [TikTok](https://fetchr.fun/skachat-video-s-tiktok/), [RuTube](https://fetchr.fun/skachat-video-s-rutube/) и [Pinterest](https://fetchr.fun/skachat-video-s-pinterest/)
 - [Архив стримов на VPS 24/7](https://fetchr.fun/arhiv-vps/) с синхронным чатом и быстрым экспортом клипов
-- Локальное ИИ-удаление/запикивание матов и запреток Twitch (Fetchr Mute), авто-блюр баннеров спонсоров (Sponsor Blur) и удаление фоновой музыки (Vocal Remover)
+- [Удалить или запикать маты в видео локально (Fetchr Mute)](https://fetchr.fun/udalit-maty-iz-video/), [блюр спонсоров и баннеров](https://fetchr.fun/blur-sponsorov/) и [убрать музыку из видео — Vocal Remover](https://fetchr.fun/ubrat-muzyku-iz-video/)
 
 ![Fetchr Sponsor Blur](https://fetchr.fun/assets/shots/sponsor-blur@1x.webp)
 
