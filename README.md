@@ -49,7 +49,7 @@
 - [Скачать стрим (VOD) с Twitch](https://fetchr.fun/skachat-strim-s-twitch/), [клипы Twitch](https://fetchr.fun/skachat-klip-s-twitch/) и [рендер чата Twitch с 7TV / BTTV / FFZ](https://fetchr.fun/render-chata-twitch/)
 - [Скачать стрим с Kick](https://fetchr.fun/skachat-strim-s-kick/), [клипы Kick](https://fetchr.fun/skachat-klip-s-kick/) и [рендер чата Kick](https://fetchr.fun/render-chata-kick/)
 - [Скачать видео с VK](https://fetchr.fun/skachat-video-s-vk/), [TikTok](https://fetchr.fun/skachat-video-s-tiktok/), [RuTube](https://fetchr.fun/skachat-video-s-rutube/) и [Pinterest](https://fetchr.fun/skachat-video-s-pinterest/)
-- [Архив стримов на VPS 24/7](https://fetchr.fun/arhiv-vps/) с синхронным чатом и быстрым экспортом клипов
+- [Автоматическая запись стримов Twitch, Kick и YouTube на ПК](https://fetchr.fun/zapis-strimov/) и [архив стримов на VPS 24/7](https://fetchr.fun/arhiv-vps/) с синхронным чатом и быстрым экспортом клипов
 - [Удалить или запикать маты в видео локально (Fetchr Mute)](https://fetchr.fun/udalit-maty-iz-video/), [блюр спонсоров и баннеров](https://fetchr.fun/blur-sponsorov/) и [убрать музыку из видео — Vocal Remover](https://fetchr.fun/ubrat-muzyku-iz-video/)
 
 ![Fetchr Sponsor Blur](https://fetchr.fun/assets/shots/sponsor-blur@1x.webp)
